@@ -1,0 +1,12 @@
+deb https://packages.zorinos.com/stable bionic main
+# deb-src https://packages.zorinos.com/stable bionic main
+
+deb https://packages.zorinos.com/patches bionic main
+# deb-src https://packages.zorinos.com/patches bionic main
+
+deb https://packages.zorinos.com/apps bionic main
+# deb-src https://packages.zorinos.com/apps bionic main
+
+deb https://packages.zorinos.com/drivers bionic main restricted
+# deb-src https://packages.zorinos.com/drivers bionic main restricted
+
